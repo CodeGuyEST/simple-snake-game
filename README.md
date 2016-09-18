@@ -1,2 +1,2 @@
-# test-repo
-Just a test.
+# simple-snake-game
+Snake game written in C#.
